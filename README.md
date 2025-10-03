@@ -17,7 +17,6 @@ This repository contains shellcode examples in both 32-bit and 64-bit x86 assemb
 - **mark.s** - Custom shellcode example
 - **openfile.s** - Opens and manipulates files using 64-bit system calls
 - **priv_shell.s** - Privilege escalation shell or setuid shell example
-- **shellcode1.s** - Basic execve shellcode spawning `/bin/sh`
 
 ## Building
 

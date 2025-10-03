@@ -1,5 +1,5 @@
-.global _start
-.intel_syntax noprefix
+BITS 32
+global _start
 _start:
 	xor ecx,ecx
 	mul ecx
